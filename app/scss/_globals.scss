@@ -29,3 +29,17 @@ a:visited,
 a:active {
   text-decoration: none;
 }
+
+.grid-row {
+  display: flex;
+}
+
+.grid-item {
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+}
+
+.bg-blue {
+  background-color: cornflowerblue;
+}
